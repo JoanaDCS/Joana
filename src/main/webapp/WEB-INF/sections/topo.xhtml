@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://java.sun.com/jsf/passthrough">
+
+<ui:composition>
+	<div class="navbar navbar-inverse navbar-fixed-top"
+		style="padding-top: 10px;">
+
+		<h:link p:data-original-title="Show/Hide Menu"
+			p:data-placement="bottom" p:data-tooltip="tooltip"
+			styleClass="accordion-toggle btn btn-primary btn-sm visible-xs"
+			p:data-toggle="collapse" id="menu-toggle">
+			<h:outputText styleClass="icon-align-justify" />
+		</h:link>
+		<!-- LOGO SECTION -->
+		<div class="navbar-header">
+			<h:link styleClass="navbar-brand">
+				<h:graphicImage value="/resources/assets/img/logo.png"
+					alt="Logo do Projeto" />
+			</h:link>
+		</div>
+		<!-- END LOGO SECTION -->
+
+		<ul class="nav navbar-top-links navbar-right">
+			<!-- MESSAGES SECTION -->
+			<li class="dropdown"><h:link styleClass="dropdown-toggle"
+					p:data-toggle="dropdown">
+					<h:outputText styleClass="label label-success">2</h:outputText>
+					<i class="icon-envelope-alt"></i>&nbsp;
+					<i class="icon-chevron-down"></i>
+				</h:link>
+
+				<ul class="dropdown-menu dropdown-messages">
+					<li><h:link>
+							<div>
+								<strong>Joana Darc</strong>
+								<h:outputText styleClass="pull-right text-muted">
+									<em>Today</em>
+								</h:outputText>
+							</div>
+							<div>
+								Lorem ipsum dolor sit amet, consectetur adipiscing. <br />
+								<h:outputText value="Important" styleClass="label label-primary" />
+							</div>
+						</h:link></li>
+						
+					<li class="divider"></li>
+					
+					<li><h:link>
+							<div>
+								<strong>Airon Lima</strong>
+								<h:outputText styleClass="pull-right text-muted">
+									<em>Yesterday</em>
+								</h:outputText>
+							</div>
+							<div>
+								Lorem ipsum dolor sit amet, consectetur adipiscing. <br />
+								<h:outputText value="Important" styleClass="label label-success" />
+							</div>
+						</h:link></li>
+						
+					<li class="divider"></li>
+					
+					<li><h:link>
+							<div>
+								<strong>Luis Cláudio</strong>
+								<h:outputText styleClass="pull-right text-muted">
+									<em>Antes de Ontem</em>
+								</h:outputText>
+							</div>
+							<div>
+								Lorem ipsum dolor sit amet, consectetur adipiscing. <br />
+								<h:outputText value="Important" styleClass="label label-success" />
+							</div>
+						</h:link></li>
+						
+				</ul></li>
+		</ul>
+
+	</div>
+</ui:composition>
+</html>

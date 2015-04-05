@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html"> 
+
+<ui:composition>
+	<div class="media user-media well-small">
+		<!-- Colocando foto do usuario -->
+		<h:link styleClass="user-link">
+			<h:graphicImage value="/resources/assets/img/user.gif" styleClass="media-object img-thumbnail user-img" />
+		</h:link>
+		<br />
+		<!-- Nome ao lado da foto do usuario -->
+		<div class="media-body">
+			<h5 class="media-heading"> Joana Darc</h5>
+			<ul class="list-unstyled user-info">
+				<li>
+					<h:link styleClass="btn btn-success btn-xs btn-circle" style="width: 10px; height: 12px;"></h:link> Online
+				</li>
+				
+			</ul>
+		</div>
+		<br />
+	</div>
+	
+	<ul id="menu" class="collpase">
+	
+		<li class="panel">
+			<h:link> <h:outputText styleClass="icon-table" />  DashBoard</h:link>
+		</li>
+	</ul>
+</ui:composition>
+</html>

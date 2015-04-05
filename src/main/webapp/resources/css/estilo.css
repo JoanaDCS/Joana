@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+
+
+.img-fundo{
+	background: url("#{resource['images/GENETICA800x1067.png']}"); 
+}

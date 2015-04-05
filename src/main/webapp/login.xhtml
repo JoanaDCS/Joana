@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:pt="http://java.sun.com/jsf/passthrough">
+
+<h:head>
+
+	<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+	<meta content="Ferramenta de Análise de Epítopos" name="description" />
+	<meta content="Joana Darc Carvalho de Sousa" name="author" />
+
+	<h:outputStylesheet name="bootstrap.css"
+		library="assets/plugins/bootstrap/css" />
+	<h:outputStylesheet name="login.css" library="assets/css" />
+	<h:outputStylesheet name="magic.css" library="assets/plugins/magic" />
+	<h:outputStylesheet name="estilo.css" library="css" />
+
+	<title>#{msgs.title}</title>
+
+</h:head>
+<h:body>
+	<div class="container">
+		<div class="text-center">
+			<h:graphicImage value="/resources/images/icone3.png" alt="logomarca" />
+		</div>
+
+		<div class="tab-content">
+			<div id="login" class="tab-pane active">
+				<h:form styleClass="form-signin">
+					<p
+						class="text-muted text-center btn-block btn btn-primary btn-rect">
+						Por Favor, entre com seu login e senha</p>
+					<h:inputText styleClass="form-control">
+						<f:passThroughAttribute name="placeholder"
+							value="Digite seu Login" />
+					</h:inputText>
+					<h:inputSecret styleClass="form-control">
+						<f:passThroughAttribute name="placeholder"
+							value="Digite sua Senha" />
+					</h:inputSecret>
+					<button class="btn text-muted text-center btn-danger" type="submit">Entrar</button>
+				</h:form>
+			</div>
+
+			<div id="forgot" class="tab-pane">
+				<h:form styleClass="form-signin">
+					<p
+						class="text-muted text-center btn-block btn btn-primary btn-rect">Entre
+						com o email válido.</p>
+					<h:inputText styleClass="form-control">
+						<f:passThroughAttribute name="placeholder"
+							value="Digite o email cadastrado" />
+					</h:inputText>
+					<br />
+					<button class="btn text-muted text-center btn-success"
+						type="submit">Recover Password</button>
+				</h:form>
+			</div>
+
+			<div id="signup" class="tab-pane">
+				<h:form styleClass="form-signin">
+					<p
+						class="text-muted text-center btn-block btn btn-primary btn-rect">Please
+						Fill Details To Register</p>
+					<h:inputText styleClass="form-control">
+						<f:passThroughAttribute name="placeholder" value="Nome Completo" />
+					</h:inputText>
+					<h:inputText styleClass="form-control">
+						<f:passThroughAttribute name="placeholder" value="CPF" />
+					</h:inputText>
+					<h:inputText styleClass="form-control">
+						<f:passThroughAttribute name="placeholder" value="Digite seu email" />
+					</h:inputText>
+					<h:inputText styleClass="form-control" >
+						<f:passThroughAttribute name="placeholder" value="Digite um login" />
+					</h:inputText>
+					<h:inputSecret placeholder="Senha" styleClass="form-control">
+						<f:passThroughAttribute name="placeholder" value="Digite sua senha" />
+					</h:inputSecret>
+					<h:inputSecret placeholder="Senha" styleClass="form-control">
+						<f:passThroughAttribute name="placeholder" value="Repita sua senha" />
+					</h:inputSecret>
+					<button class="btn text-muted text-center btn-success"
+						type="submit">Register</button>
+				</h:form>
+			</div>
+		</div>
+
+		<div class="text-center">
+			<ul class="list-inline">
+				<li><a class="text-muted" href="#login" data-toggle="tab">Login</a></li>
+				<li><a class="text-muted" href="#forgot" data-toggle="tab">Forgot
+						Password</a></li>
+				<li><a class="text-muted" href="#signup" data-toggle="tab">Signup</a></li>
+			</ul>
+		</div>
+	</div>
+
+
+	<h:outputScript name="jquery-2.0.3.min.js" library="assets/plugins" />
+	<h:outputScript name="bootstrap.js"
+		library="assets/plugins/bootstrap/js" />
+	<h:outputScript name="login.js" library="assets/js" />
+
+</h:body>
+</html>
