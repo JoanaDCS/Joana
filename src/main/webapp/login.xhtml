@@ -3,7 +3,8 @@
 	xmlns:ui="http://java.sun.com/jsf/facelets"
 	xmlns:f="http://java.sun.com/jsf/core"
 	xmlns:h="http://java.sun.com/jsf/html"
-	xmlns:pt="http://java.sun.com/jsf/passthrough">
+	xmlns:pt="http://java.sun.com/jsf/passthrough"
+	xmlns:jsf="http://xmlns.jcp.org/jsf">
 
 <h:head>
 
@@ -49,13 +50,13 @@
 					<p
 						class="text-muted text-center btn-block btn btn-primary btn-rect">Entre
 						com o email válido.</p>
-					<h:inputText styleClass="form-control">
+					<h:inputText styleClass="form-control" value="#{sendMail.mensagem.email}">
 						<f:passThroughAttribute name="placeholder"
 							value="Digite o email cadastrado" />
 					</h:inputText>
 					<br />
-					<button class="btn text-muted text-center btn-success"
-						type="submit">Recover Password</button>
+					<h:commandButton action="#{sendMail.enviaEmail}" value="Register" styleClass="btn text-muted text-center btn-success" />
+					
 				</h:form>
 			</div>
 
@@ -64,26 +65,25 @@
 					<p
 						class="text-muted text-center btn-block btn btn-primary btn-rect">Please
 						Fill Details To Register</p>
-					<h:inputText styleClass="form-control">
+					<h:inputText styleClass="form-control" value="#{userbean.user.nome}">
 						<f:passThroughAttribute name="placeholder" value="Nome Completo" />
 					</h:inputText>
-					<h:inputText styleClass="form-control">
+					<h:inputText styleClass="form-control" value="#{userbean.user.cpf}">
 						<f:passThroughAttribute name="placeholder" value="CPF" />
 					</h:inputText>
-					<h:inputText styleClass="form-control">
+					<h:inputText styleClass="form-control" value="#{userbean.user.email}">
 						<f:passThroughAttribute name="placeholder" value="Digite seu email" />
 					</h:inputText>
-					<h:inputText styleClass="form-control" >
+					<h:inputText styleClass="form-control" value="#{userbean.user.login}">
 						<f:passThroughAttribute name="placeholder" value="Digite um login" />
 					</h:inputText>
-					<h:inputSecret placeholder="Senha" styleClass="form-control">
+					<h:inputSecret placeholder="Senha" styleClass="form-control" value="#{userbean.user.senha}">
 						<f:passThroughAttribute name="placeholder" value="Digite sua senha" />
 					</h:inputSecret>
 					<h:inputSecret placeholder="Senha" styleClass="form-control">
 						<f:passThroughAttribute name="placeholder" value="Repita sua senha" />
 					</h:inputSecret>
-					<button class="btn text-muted text-center btn-success"
-						type="submit">Register</button>
+					<h:commandButton action="#{userbean.adiciona}" value="Register" styleClass="btn btn-success" />
 				</h:form>
 			</div>
 		</div>

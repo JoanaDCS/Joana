@@ -6,7 +6,7 @@ import javax.faces.bean.RequestScoped;
 import DAO.DAO;
 import Model.Usuario;
 
-@ManagedBean(name="user")
+@ManagedBean(name="userbean")
 @RequestScoped
 public class UsuarioBean {
 
