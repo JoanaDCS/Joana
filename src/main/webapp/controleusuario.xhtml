@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html">
+
+<ui:composition template="/WEB-INF/template/layout.xhtml">
+	<ui:define name="content">
+		<div class="row">
+			<div class="col-lg-12">
+				<h2>Controle de usuários</h2>
+			</div>
+		</div>
+		<hr />
+		
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="panel panel-primary">
+					<div class="panel-heading">
+						Usuários Cadastrados
+					</div>
+					<div class="panel-body">
+						<div class="table-responsive">
+							<h:dataTable value="#{userbean.usuarios}" var="usuario" styleClass="table table-striped table-bordered table-hover" id="dataTables-example">
+								<h:column>
+									<f:facet name="header">Nome</f:facet>
+									#{usuario.nome}
+								</h:column>
+								<h:column>
+									<f:facet name="header">CPF</f:facet>
+									#{usuario.cpf}
+								</h:column>
+								<h:column>
+									<f:facet name="header">Email</f:facet>
+									#{usuario.email}
+								</h:column>
+								<h:column>
+									<f:facet name="header">Ações</f:facet>
+									<h:link styleClass="btn btn-primary btn-circle">
+										<i class="icon-edit"></i>
+									</h:link>&nbsp;
+									<h:link styleClass="btn btn-success btn-circle">
+										<i class="icon-remove"></i>
+									</h:link>
+								</h:column>
+							</h:dataTable>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</ui:define>
+</ui:composition>
+</html>

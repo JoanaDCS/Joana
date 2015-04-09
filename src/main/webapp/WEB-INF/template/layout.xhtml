@@ -3,7 +3,8 @@
 	xmlns:ui="http://java.sun.com/jsf/facelets"
 	xmlns:f="http://java.sun.com/jsf/core"
 	xmlns:h="http://java.sun.com/jsf/html"
-	xmlns:p="http://java.sun.com/jsf/passthrough">
+	xmlns:p="http://java.sun.com/jsf/passthrough"
+	xmlns:jsf="http://xmlns.jcp.org/jsf">
 
 <h:head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -31,7 +32,8 @@
 
 			<div class="inner" style="min-height: 1200px;">
 
-				<div class="row">
+				<ui:insert name="content"/>
+				<!-- <div class="row">
 					<div class="col-lg-12">
 
 						<h2>Análise Epitópica</h2>
@@ -40,7 +42,7 @@
 					
 				</div>
 				
-				<hr />
+				<hr /> -->
 				
 			</div>
 
