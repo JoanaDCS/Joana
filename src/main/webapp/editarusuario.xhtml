@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html">
+
+<ui:composition template="/WEB-INF/template/layout.xhtml">
+	<ui:define name="content">
+		<div class="row">
+			<div class="col-lg-12">
+				<h2>Atualização Dados do Usuário</h2>
+			</div>
+		</div>
+		<hr />
+
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="panel panel-primary">
+					<div class="panel-heading">Atualização dos Dados do Usuário</div>
+					<div class="panel-body">
+						<div class="row">
+							<div class="col-lg-12">
+								<h:form>
+									<f:passThroughAttribute name="role" value="form" />
+									<div class="form-group col-lg-6">
+										<h:outputLabel value="Nome" />
+										<h:inputText styleClass="form-control"></h:inputText>
+									</div>
+									<div class="form-group col-lg-6">
+										<h:outputLabel value="Email" />
+										<h:inputText styleClass="form-control"></h:inputText>
+									</div>
+									<div class="form-group col-lg-4">
+										<h:outputLabel value="CPF" />
+										<h:inputText styleClass="form-control"></h:inputText>
+									</div>
+									<div class="form-group col-lg-4">
+										<h:outputLabel value="Login" />
+										<h:inputText styleClass="form-control"></h:inputText>
+									</div>
+									<div class="form-group col-lg-4">
+										<h:outputLabel value="Senha Antiga" />
+										<h:inputText styleClass="form-control"></h:inputText>
+									</div>
+									<div class="form-group col-lg-4">
+										<h:outputLabel value="Senha Nova" />
+										<h:inputText styleClass="form-control"></h:inputText>
+									</div>
+									<div class="form-group col-lg-4">
+										<h:outputLabel value="Repita Nova Senha" />
+										<h:inputText styleClass="form-control"></h:inputText>
+									</div>
+
+								</h:form>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</ui:define>
+</ui:composition>
+</html>
