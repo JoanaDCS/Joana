@@ -20,7 +20,7 @@
 					<div class="panel-body">
 						<div class="row">
 							<div class="col-lg-12">
-								<h:form>
+								<h:form id="form">
 									<f:passThroughAttribute name="role" value="form" />
 									<div class="form-group col-lg-6">
 										<h:outputLabel value="Nome" />
@@ -50,7 +50,10 @@
 										<h:outputLabel value="Repita Nova Senha" />
 										<h:inputText styleClass="form-control"></h:inputText>
 									</div>
-
+									<div class="form-group">
+										<div>&nbsp;</div>
+										<button type="submit" class="btn btn-primary" id="form:atualizar" name="form:atualizar"><i class="icon-refresh"></i> Atualizar</button>
+									</div>
 								</h:form>
 							</div>
 						</div>
