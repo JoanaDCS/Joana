@@ -1,0 +1,834 @@
+<table>
+  <tr>
+    <td>RGCT</td>
+    <td>FLAVIA NARA FONSECA COSTA</td>
+  </tr>
+  <tr>
+    <td>Código do Lab.</td>
+    <td>
+      indefinido    </td>
+  </tr>
+  <tr>
+    <td>Nome</td>
+    <td>FLAVIA NARA FONSECA COSTA</td>
+  </tr>
+  <tr>
+    <td>Data do teste</td>
+    <td>14/08/2014 10:52</td>
+    <td>
+              (SORO HISTÓRICO)
+          </td>
+  </tr>
+  <tr>
+    <td>Migrado em</td>
+    <td>14/08/2014 10:52</td>
+  <tr>
+    <td>Responsável</td>
+    <td>lab1</td>
+  </tr>
+  <tr>
+    <td>Controle negativo</td>
+    <td>205</td>
+  </tr>
+  <tr>
+    <td>Controle positivo</td>
+    <td>11119</td>
+  </tr>
+  <tr>
+    <td>Cutoff</td>
+    <td>2000</td>
+  </tr>
+  <tr>
+    <td>Exportado em</td>
+    <td>02/06/2015 17:39</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th width="220">Alelo</th>
+    <th width="50">MFI</th>
+    <th>Eplets</th>
+  </tr>
+
+      
+        
+        
+        
+          <tr>
+        <td>B*44:03</td>
+        <td><font color='red'>4093</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"71TTN"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"76ENT"</font></td><td><font color='blue'>"76ET"</font></td><td><font color='blue'>"80TA"</font></td><td><font color='blue'>"80TLR"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"131S"</font></td><td><font color='black'>"162GLS"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='black'>"166ES"</font></td><td><font color='black'>"199V"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*15:12</td>
+        <td><font color='red'>3909</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RMA"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"163L"</font></td><td><font color='red'>"163LG"</font></td><td><font color='blue'>"166DG"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*82:01</td>
+        <td><font color='red'>3778</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"24S"</font></td><td><font color='blue'>"65QIA+s76ESN"</font></td><td><font color='blue'>"66IY"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"69ATS"</font></td><td><font color='blue'>"70IAQ"</font></td><td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"99F"</font></td><td><font color='blue'>"116L"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"156DA"</font></td><td><font color='black'>"162DLS"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='black'>"166ES"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*45:01</td>
+        <td><font color='red'>3469</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"116L"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"156DA"</font></td><td><font color='black'>"162GLS"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='black'>"166ES"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*44:02</td>
+        <td><font color='red'>2709</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"71TTN"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"76ENT"</font></td><td><font color='blue'>"76ET"</font></td><td><font color='blue'>"80TA"</font></td><td><font color='blue'>"80TLR"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"156DA"</font></td><td><font color='black'>"162GLS"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='black'>"166ES"</font></td><td><font color='black'>"199V"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*13:02</td>
+        <td><font color='blue'>749</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RMA"</font></td><td><font color='blue'>"71TTN"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"76ENT"</font></td><td><font color='blue'>"76ET"</font></td><td><font color='blue'>"80TA"</font></td><td><font color='blue'>"80TLR"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"116L"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"144QL"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*49:01</td>
+        <td><font color='blue'>671</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"71TTN"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENI+62RE"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+152RE"</font></td><td><font color='blue'>"80I+65QI"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"116L"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*67:01</td>
+        <td><font color='blue'>627</font></td>
+                              <td><font color='blue'>"24S"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"65QIA+s76ESN"</font></td><td><font color='blue'>"66IY"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"69ATS"</font></td><td><font color='blue'>"70IAQ"</font></td><td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163T"</font></td><td><font color='blue'>"158T"</font></td><td><font color='blue'>"163TEW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*57:01</td>
+        <td><font color='blue'>574</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RMA"</font></td><td><font color='blue'>"62GRN"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"65RNA+s80I"</font></td><td><font color='blue'>"66NM"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71SA"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"97V"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*27:05</td>
+        <td><font color='blue'>529</font></td>
+                              <td><font color='blue'>"71ATD"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"76ED"</font></td><td><font color='blue'>"76ET"</font></td><td><font color='blue'>"80TLR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"97N"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"131S"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*32:01</td>
+        <td><font color='blue'>478</font></td>
+                              <td><font color='blue'>"62QE"</font></td><td><font color='blue'>"62QE+s56G"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"65RNA+s80I"</font></td><td><font color='blue'>"66NAH"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69ATS"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"76ESI"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138M"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97M"</font></td><td><font color='blue'>"113YQ"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*24:03</td>
+        <td><font color='blue'>452</font></td>
+                              <td><font color='blue'>"9S"</font></td><td><font color='blue'>"62EE"</font></td><td><font color='blue'>"65GK"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71STN"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138M"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"97M"</font></td><td><font color='blue'>"99F"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"144KR"</font></td><td><font color='blue'>"144KR+127K"</font></td><td><font color='blue'>"144KR+s151H"</font></td><td><font color='blue'>"156QA"</font></td><td><font color='blue'>"182TDP"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*23:01</td>
+        <td><font color='blue'>443</font></td>
+                              <td><font color='blue'>"9S"</font></td><td><font color='blue'>"62EE"</font></td><td><font color='blue'>"65GK"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71STN"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138M"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"97M"</font></td><td><font color='blue'>"99F"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"163TG"</font></td><td><font color='blue'>"166DG"</font></td><td><font color='blue'>"182TDP"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*25:01</td>
+        <td><font color='blue'>437</font></td>
+                              <td><font color='blue'>"62RNR"</font></td><td><font color='blue'>"62RR"</font></td><td><font color='blue'>"62RRN"</font></td><td><font color='blue'>"63NN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"65RNA+s80I"</font></td><td><font color='blue'>"66NAH"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69ATS"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"76ESI"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138M"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"90D+138M"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"113YQ"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"145RT"</font></td><td><font color='blue'>"149TAH"</font></td><td><font color='blue'>"151AHE"</font></td><td><font color='blue'>"163R"</font></td><td><font color='blue'>"163RW"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*59:01</td>
+        <td><font color='blue'>412</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"66IF"</font></td><td><font color='blue'>"66IF+163TEW"</font></td><td><font color='blue'>"71TTN"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+65QI"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"116L"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163T"</font></td><td><font color='blue'>"163TEW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*24:02</td>
+        <td><font color='blue'>384</font></td>
+                              <td><font color='blue'>"9S"</font></td><td><font color='blue'>"62EE"</font></td><td><font color='blue'>"65GK"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71STN"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138M"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"97M"</font></td><td><font color='blue'>"99F"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"144KR"</font></td><td><font color='blue'>"144KR+127K"</font></td><td><font color='blue'>"144KR+s151H"</font></td><td><font color='blue'>"156QA"</font></td><td><font color='blue'>"163TG"</font></td><td><font color='blue'>"166DG"</font></td><td><font color='blue'>"182TDP"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*51:02</td>
+        <td><font color='blue'>383</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RT"</font></td><td><font color='blue'>"44RT+69TNT"</font></td><td><font color='blue'>"66IF"</font></td><td><font color='blue'>"71TTN"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+152RE"</font></td><td><font color='blue'>"80I+65QI"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*03:01</td>
+        <td><font color='blue'>345</font></td>
+                              <td><font color='blue'>"62QE"</font></td><td><font color='blue'>"62QE+151H"</font></td><td><font color='blue'>"62QE+s56G"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAQ"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"71QS"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97I"</font></td><td><font color='blue'>"113YR"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"144KR"</font></td><td><font color='blue'>"144KR+s151H"</font></td><td><font color='blue'>"151AHE"</font></td><td><font color='blue'>"161D"</font></td><td><font color='blue'>"182TDP"</font></td><td><font color='blue'>"275EL"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*57:03</td>
+        <td><font color='blue'>343</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RMA"</font></td><td><font color='blue'>"62GRN"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"65RNA+s80I"</font></td><td><font color='blue'>"66NM"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71SA"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"97V"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*01:01</td>
+        <td><font color='blue'>340</font></td>
+                              <td><font color='blue'>"44KM<sub>3</sub>"</font></td><td><font color='blue'>"62QE"</font></td><td><font color='blue'>"62QE+151H"</font></td><td><font color='blue'>"62QE+s56G"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAH"</font></td><td><font color='blue'>"66NM"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71STN"</font></td><td><font color='blue'>"73TDA"</font></td><td><font color='blue'>"76ANT"</font></td><td><font color='blue'>"77NGT"</font></td><td><font color='blue'>"90D+138M"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97I"</font></td><td><font color='blue'>"113YR"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"144KR"</font></td><td><font color='blue'>"144KR+s151H"</font></td><td><font color='blue'>"152A"</font></td><td><font color='blue'>"152HA"</font></td><td><font color='blue'>"156R"</font></td><td><font color='blue'>"163R"</font></td><td><font color='blue'>"163RG"</font></td><td><font color='blue'>"166DG"</font></td><td><font color='blue'>"182TDP"</font></td><td><font color='blue'>"275EL"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*58:01</td>
+        <td><font color='blue'>322</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RT"</font></td><td><font color='blue'>"62GRN"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"65RNA+s80I"</font></td><td><font color='blue'>"66NM"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71SA"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*29:02</td>
+        <td><font color='blue'>316</font></td>
+                              <td><font color='blue'>"9T"</font></td><td><font color='blue'>"62LQ"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAQ"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71QS"</font></td><td><font color='blue'>"71STN"</font></td><td><font color='blue'>"73TDA"</font></td><td><font color='blue'>"76ANT"</font></td><td><font color='blue'>"77NGT"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97M"</font></td><td><font color='blue'>"113YR"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*51:01</td>
+        <td><font color='blue'>309</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RT"</font></td><td><font color='blue'>"44RT+69TNT"</font></td><td><font color='blue'>"66IF"</font></td><td><font color='blue'>"71TTN"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+152RE"</font></td><td><font color='blue'>"80I+65QI"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*29:01</td>
+        <td><font color='blue'>292</font></td>
+                              <td><font color='blue'>"9T"</font></td><td><font color='blue'>"62LQ"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAQ"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71QS"</font></td><td><font color='blue'>"71STN"</font></td><td><font color='blue'>"73TDA"</font></td><td><font color='blue'>"76ANT"</font></td><td><font color='blue'>"77NGT"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97M"</font></td><td><font color='blue'>"102HV"</font></td><td><font color='blue'>"113YR"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*52:01</td>
+        <td><font color='blue'>292</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RT"</font></td><td><font color='blue'>"44RT+69TNT"</font></td><td><font color='blue'>"71TTN"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENI+62RE"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+152RE"</font></td><td><font color='blue'>"80I+65QI"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*47:01</td>
+        <td><font color='blue'>285</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"71TTD"</font></td><td><font color='blue'>"76ED"</font></td><td><font color='blue'>"76ET"</font></td><td><font color='blue'>"80TLR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"99F"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"131S"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*37:01</td>
+        <td><font color='blue'>279</font></td>
+                              <td><font color='blue'>"24S"</font></td><td><font color='blue'>"44RT"</font></td><td><font color='blue'>"44RT+69TNT"</font></td><td><font color='blue'>"71TTD"</font></td><td><font color='blue'>"76ED"</font></td><td><font color='blue'>"76ET"</font></td><td><font color='blue'>"80TLR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"99S"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163T"</font></td><td><font color='blue'>"156DA"</font></td><td><font color='blue'>"163TEW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*30:01</td>
+        <td><font color='blue'>276</font></td>
+                              <td><font color='blue'>"9S"</font></td><td><font color='blue'>"17RS"</font></td><td><font color='blue'>"56R"</font></td><td><font color='blue'>"62QE"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAQ"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"71QS"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97I"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"152RW"</font></td><td><font color='blue'>"182TDP"</font></td><td><font color='blue'>"275EL"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*15:16</td>
+        <td><font color='blue'>264</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RMA"</font></td><td><font color='blue'>"62RER"</font></td><td><font color='blue'>"62RR"</font></td><td><font color='blue'>"62RRN"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"65RNA+s80I"</font></td><td><font color='blue'>"66NM"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71SA"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENI+62RE"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+152RE"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*38:01</td>
+        <td><font color='blue'>201</font></td>
+                              <td><font color='blue'>"24S"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"66ICT"</font></td><td><font color='blue'>"71TTN"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+65QI"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163T"</font></td><td><font color='blue'>"158T"</font></td><td><font color='blue'>"163TEW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*15:13</td>
+        <td><font color='blue'>193</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RMA"</font></td><td><font color='blue'>"71TTN"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+152RE"</font></td><td><font color='blue'>"80I+65QI"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*46:01</td>
+        <td><font color='blue'>189</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RMA"</font></td><td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TVS"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*30:02</td>
+        <td><font color='blue'>181</font></td>
+                              <td><font color='blue'>"9S"</font></td><td><font color='blue'>"17RS"</font></td><td><font color='blue'>"56R"</font></td><td><font color='blue'>"62QE"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAH"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71STN"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"76EG"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENT"</font></td><td><font color='blue'>"76ET"</font></td><td><font color='blue'>"77NGT"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97I"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"152RR"</font></td><td><font color='blue'>"182TDP"</font></td><td><font color='blue'>"275EL"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*31:01</td>
+        <td><font color='blue'>181</font></td>
+                              <td><font color='blue'>"9T"</font></td><td><font color='blue'>"56R"</font></td><td><font color='blue'>"62QE"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAH"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"73ID"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97M"</font></td><td><font color='blue'>"113YQ"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"182TDP"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*53:01</td>
+        <td><font color='blue'>149</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RT"</font></td><td><font color='blue'>"44RT+69TNT"</font></td><td><font color='blue'>"66IF"</font></td><td><font color='blue'>"71TTN"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENI"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"80I"</font></td><td><font color='blue'>"80I+65QI"</font></td><td><font color='blue'>"80I+90A"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+144Q145R"</font></td><td><font color='blue'>"82LR+145R"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"82LR+s145R/149A"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*08:01</td>
+        <td><font color='blue'>141</font></td>
+                              <td><font color='blue'>"9D"</font></td><td><font color='blue'>"11AM"</font></td><td><font color='blue'>"24S"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"66IF"</font></td><td><font color='blue'>"66IF+163TEW"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"156DA"</font></td><td><font color='blue'>"163TEW+65QI"</font></td><td><font color='blue'>"177DT"</font></td><td><font color='blue'>"180E"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*13:01</td>
+        <td><font color='blue'>134</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RMA"</font></td><td><font color='blue'>"71TTN"</font></td><td><font color='blue'>"76EN"</font></td><td><font color='blue'>"76ENR"</font></td><td><font color='blue'>"76ENT"</font></td><td><font color='blue'>"76ET"</font></td><td><font color='blue'>"80TA"</font></td><td><font color='blue'>"80TLR"</font></td><td><font color='blue'>"81ALR"</font></td><td><font color='blue'>"82LR"</font></td><td><font color='blue'>"82LR+138T"</font></td><td><font color='blue'>"82LR+90A"</font></td><td><font color='blue'>"116L"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"144QL"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*34:02</td>
+        <td><font color='blue'>130</font></td>
+                              <td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"62RNR"</font></td><td><font color='blue'>"62RR"</font></td><td><font color='blue'>"62RRN"</font></td><td><font color='blue'>"63NN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAQ"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"71QS"</font></td><td><font color='blue'>"90D+138M"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97I"</font></td><td><font color='blue'>"113YR"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"145RT"</font></td><td><font color='blue'>"149TAH"</font></td><td><font color='blue'>"151AHE"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*17:01</td>
+        <td><font color='blue'>111</font></td>
+                              <td><font color='blue'>"73AN"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"143S"</font></td><td><font color='blue'>"147L"</font></td><td><font color='blue'>"184R3"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*07:02</td>
+        <td><font color='blue'>104</font></td>
+                              <td><font color='blue'>"9D"</font></td><td><font color='blue'>"24S"</font></td><td><font color='blue'>"99S"</font></td><td><font color='blue'>"147L"</font></td><td><font color='blue'>"152A"</font></td><td><font color='blue'>"152RA"</font></td><td><font color='blue'>"193PL<sub>3</sub>"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*69:01</td>
+        <td><font color='blue'>99</font></td>
+                              <td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"62RNR"</font></td><td><font color='blue'>"62RR"</font></td><td><font color='blue'>"62RRN"</font></td><td><font color='blue'>"63NN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAQ"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"71QS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*15:11</td>
+        <td><font color='blue'>98</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RMA"</font></td><td><font color='blue'>"66IY"</font></td><td><font color='blue'>"66IYT"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*36:01</td>
+        <td><font color='blue'>93</font></td>
+                              <td><font color='blue'>"44KM<sub>3</sub>"</font></td><td><font color='blue'>"62QE"</font></td><td><font color='blue'>"62QE+151H"</font></td><td><font color='blue'>"62QE+s56G"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAH"</font></td><td><font color='blue'>"66NM"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71STN"</font></td><td><font color='blue'>"73TDA"</font></td><td><font color='blue'>"76ANT"</font></td><td><font color='blue'>"77NGT"</font></td><td><font color='blue'>"90D+138M"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97I"</font></td><td><font color='blue'>"113YR"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"144KR"</font></td><td><font color='blue'>"144KR+s151H"</font></td><td><font color='blue'>"152A"</font></td><td><font color='blue'>"152HA"</font></td><td><font color='blue'>"156R"</font></td><td><font color='blue'>"182TDP"</font></td><td><font color='blue'>"275EL"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*04:01</td>
+        <td><font color='blue'>92</font></td>
+                              <td><font color='blue'>"9S"</font></td><td><font color='blue'>"17WR"</font></td><td><font color='blue'>"73AN"</font></td><td><font color='blue'>"99F"</font></td><td><font color='blue'>"156R"</font></td><td><font color='blue'>"156RA"</font></td><td><font color='blue'>"219W"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*18:02</td>
+        <td><font color='blue'>90</font></td>
+                              <td><font color='blue'>"9D"</font></td><td><font color='blue'>"24S"</font></td><td><font color='blue'>"73AN"</font></td><td><font color='blue'>"99F"</font></td><td><font color='blue'>"156R"</font></td><td><font color='blue'>"156RA"</font></td><td><font color='blue'>"219W"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*06:02</td>
+        <td><font color='blue'>86</font></td>
+                              <td><font color='blue'>"9D"</font></td><td><font color='blue'>"24S"</font></td><td><font color='blue'>"73AN"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*03:02</td>
+        <td><font color='blue'>85</font></td>
+                              <td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TVS"</font></td><td><font color='blue'>"94IL"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"173K"</font></td><td><font color='blue'>"219W"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*14:02</td>
+        <td><font color='blue'>80</font></td>
+                              <td><font color='blue'>"9S"</font></td><td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TVS"</font></td><td><font color='blue'>"99F"</font></td><td><font color='blue'>"156R"</font></td><td><font color='blue'>"156RA"</font></td><td><font color='blue'>"219W"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*01:02</td>
+        <td><font color='blue'>77</font></td>
+                              <td><font color='blue'>"24S"</font></td><td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TVS"</font></td><td><font color='blue'>"156R"</font></td><td><font color='blue'>"156RA"</font></td><td><font color='blue'>"219W"</font></td><td><font color='blue'>"248M"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*16:01</td>
+        <td><font color='blue'>77</font></td>
+                              <td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TVS"</font></td><td><font color='blue'>"152A"</font></td><td><font color='blue'>"152RA"</font></td><td><font color='blue'>"156QA"</font></td><td><font color='blue'>"193LV"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*03:04</td>
+        <td><font color='blue'>73</font></td>
+                              <td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TVS"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"173K"</font></td><td><font color='blue'>"219W"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*03:03</td>
+        <td><font color='blue'>71</font></td>
+                              <td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TVS"</font></td><td><font color='blue'>"90AR"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"173K"</font></td><td><font color='blue'>"219W"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*68:02</td>
+        <td><font color='blue'>67</font></td>
+                              <td><font color='blue'>"11SM"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"62RNR"</font></td><td><font color='blue'>"62RR"</font></td><td><font color='blue'>"62RRN"</font></td><td><font color='blue'>"63NN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAQ"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"71QS"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"245VA"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*02:02</td>
+        <td><font color='blue'>67</font></td>
+                              <td><font color='blue'>"16S"</font></td><td><font color='blue'>"211T"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*26:01</td>
+        <td><font color='blue'>66</font></td>
+                              <td><font color='blue'>"62RNR"</font></td><td><font color='blue'>"62RR"</font></td><td><font color='blue'>"62RRN"</font></td><td><font color='blue'>"63NN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAH"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71STN"</font></td><td><font color='blue'>"73TDA"</font></td><td><font color='blue'>"76ANT"</font></td><td><font color='blue'>"77NGT"</font></td><td><font color='blue'>"90D+138M"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"113YQ"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"145RT"</font></td><td><font color='blue'>"149TAH"</font></td><td><font color='blue'>"151AHE"</font></td><td><font color='blue'>"163R"</font></td><td><font color='blue'>"163RW"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*66:02</td>
+        <td><font color='blue'>65</font></td>
+                              <td><font color='blue'>"62RNR"</font></td><td><font color='blue'>"62RR"</font></td><td><font color='blue'>"62RRN"</font></td><td><font color='blue'>"63NN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAQ"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"71QS"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"113YQ"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"145RT"</font></td><td><font color='blue'>"149TAH"</font></td><td><font color='blue'>"151AHE"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*12:03 [SELF]</td>
+        <td><font color='blue'>64</font></td>
+              </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*34:01</td>
+        <td><font color='blue'>62</font></td>
+                              <td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"62RNR"</font></td><td><font color='blue'>"62RR"</font></td><td><font color='blue'>"66RKQ"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"71QS"</font></td><td><font color='blue'>"90D+138M"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"113YQ"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"145RT"</font></td><td><font color='blue'>"149TAH"</font></td><td><font color='blue'>"151AHE"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*42:01</td>
+        <td><font color='blue'>61</font></td>
+                              <td><font color='blue'>"24S"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"65QIA+s76ESN"</font></td><td><font color='blue'>"66IY"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"69ATS"</font></td><td><font color='blue'>"70IAQ"</font></td><td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"156DA"</font></td><td><font color='blue'>"163TEW+65QI"</font></td><td><font color='blue'>"177DT"</font></td><td><font color='blue'>"180E"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*05:01</td>
+        <td><font color='blue'>57</font></td>
+                              <td><font color='blue'>"35Q"</font></td><td><font color='blue'>"138K"</font></td><td><font color='blue'>"156R"</font></td><td><font color='blue'>"156RA"</font></td><td><font color='blue'>"177KT"</font></td><td><font color='blue'>"275G"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*14:01</td>
+        <td><font color='blue'>55</font></td>
+                              <td><font color='blue'>"24S"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"66ICT"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163T"</font></td><td><font color='blue'>"163TEW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*15:02</td>
+        <td><font color='blue'>55</font></td>
+                              <td><font color='blue'>"116L"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*43:01</td>
+        <td><font color='blue'>54</font></td>
+                              <td><font color='blue'>"62LQ"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAH"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71STN"</font></td><td><font color='blue'>"73TDA"</font></td><td><font color='blue'>"76ANT"</font></td><td><font color='blue'>"77NGT"</font></td><td><font color='blue'>"90D+138M"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"113YQ"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"145RT"</font></td><td><font color='blue'>"149TAH"</font></td><td><font color='blue'>"151AHE"</font></td><td><font color='blue'>"163R"</font></td><td><font color='blue'>"163RW"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*54:01</td>
+        <td><font color='blue'>54</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"65QIA+s76ESN"</font></td><td><font color='blue'>"66IY"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"69ATS"</font></td><td><font color='blue'>"70IAQ"</font></td><td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"116L"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163T"</font></td><td><font color='blue'>"163TEW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*02:01 [SELF]</td>
+        <td><font color='blue'>53</font></td>
+              </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*15:02</td>
+        <td><font color='blue'>49</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RMA"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*02:06</td>
+        <td><font color='blue'>47</font></td>
+              </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*14:02</td>
+        <td><font color='blue'>45</font></td>
+                              <td><font color='blue'>"24S"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"66ICT"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163T"</font></td><td><font color='blue'>"163TEW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*81:01</td>
+        <td><font color='blue'>39</font></td>
+                              <td><font color='blue'>"24S"</font></td><td><font color='blue'>"65QIA+s76ESN"</font></td><td><font color='blue'>"66IY"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"69ATS"</font></td><td><font color='blue'>"70IAQ"</font></td><td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"143S"</font></td><td><font color='blue'>"143S+s76ESN"</font></td><td><font color='blue'>"147L"</font></td><td><font color='blue'>"180E"</font></td><td><font color='blue'>"245TA"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*35:01</td>
+        <td><font color='blue'>38</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RT"</font></td><td><font color='blue'>"44RT+69TNT"</font></td><td><font color='blue'>"66IF"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*15:10</td>
+        <td><font color='blue'>37</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"24S"</font></td><td><font color='blue'>"66ICT"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>CW*08:01</td>
+        <td><font color='blue'>36</font></td>
+                              <td><font color='blue'>"35Q"</font></td><td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TVS"</font></td><td><font color='blue'>"152RT"</font></td><td><font color='blue'>"177KT"</font></td><td><font color='blue'>"275G"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*55:01</td>
+        <td><font color='blue'>34</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"65QIA+s76ESN"</font></td><td><font color='blue'>"66IY"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"69ATS"</font></td><td><font color='blue'>"70IAQ"</font></td><td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"116L"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163T"</font></td><td><font color='blue'>"163TEW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*48:01</td>
+        <td><font color='blue'>33</font></td>
+                              <td><font color='blue'>"24S"</font></td><td><font color='blue'>"143S"</font></td><td><font color='blue'>"143S+s76ESN"</font></td><td><font color='blue'>"147L"</font></td><td><font color='blue'>"180E"</font></td><td><font color='blue'>"245TA"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*66:01</td>
+        <td><font color='blue'>30</font></td>
+                              <td><font color='blue'>"62RNR"</font></td><td><font color='blue'>"62RR"</font></td><td><font color='blue'>"62RRN"</font></td><td><font color='blue'>"63NN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAQ"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"71QS"</font></td><td><font color='blue'>"90D+138M"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"113YQ"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"145RT"</font></td><td><font color='blue'>"149TAH"</font></td><td><font color='blue'>"151AHE"</font></td><td><font color='blue'>"163R"</font></td><td><font color='blue'>"163RW"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*56:01</td>
+        <td><font color='blue'>30</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"65QIA+s76ESN"</font></td><td><font color='blue'>"66IY"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"69ATS"</font></td><td><font color='blue'>"70IAQ"</font></td><td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"116L"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*33:01</td>
+        <td><font color='blue'>26</font></td>
+                              <td><font color='blue'>"9T"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"62RNR"</font></td><td><font color='blue'>"62RR"</font></td><td><font color='blue'>"62RRN"</font></td><td><font color='blue'>"63NN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAH"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"73ID"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97M"</font></td><td><font color='blue'>"113YQ"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"182TDP"</font></td><td><font color='blue'>"186R"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*39:01</td>
+        <td><font color='blue'>25</font></td>
+                              <td><font color='blue'>"24S"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"66ICT"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163T"</font></td><td><font color='blue'>"158T"</font></td><td><font color='blue'>"163TEW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*18:01</td>
+        <td><font color='blue'>24</font></td>
+                              <td><font color='blue'>"24S"</font></td><td><font color='blue'>"30G"</font></td><td><font color='blue'>"44RT"</font></td><td><font color='blue'>"44RT+69TNT"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163T"</font></td><td><font color='blue'>"163TEW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*02:03</td>
+        <td><font color='blue'>22</font></td>
+                              <td><font color='blue'>"145HT"</font></td><td><font color='blue'>"149TAH"</font></td><td><font color='blue'>"151AHE"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*40:06</td>
+        <td><font color='blue'>22</font></td>
+              </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*74:01</td>
+        <td><font color='blue'>18</font></td>
+                              <td><font color='blue'>"62QE"</font></td><td><font color='blue'>"62QE+s56G"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAH"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97M"</font></td><td><font color='blue'>"113YQ"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*78:01</td>
+        <td><font color='blue'>17</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RT"</font></td><td><font color='blue'>"44RT+69TNT"</font></td><td><font color='blue'>"66IF"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*07:02</td>
+        <td><font color='blue'>15</font></td>
+                              <td><font color='blue'>"24S"</font></td><td><font color='blue'>"65QIA+s76ESN"</font></td><td><font color='blue'>"66IY"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"69ATS"</font></td><td><font color='blue'>"70IAQ"</font></td><td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"156R"</font></td><td><font color='blue'>"156RA"</font></td><td><font color='blue'>"180E"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*41:01</td>
+        <td><font color='blue'>15</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"156DA"</font></td><td><font color='blue'>"163TEW+65QI"</font></td><td><font color='blue'>"177DT"</font></td><td><font color='blue'>"180E"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*15:01</td>
+        <td><font color='blue'>11</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"44RMA"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*11:01</td>
+        <td><font color='blue'>6</font></td>
+                              <td><font color='blue'>"62QE"</font></td><td><font color='blue'>"62QE+151H"</font></td><td><font color='blue'>"62QE+s56G"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAQ"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"71QS"</font></td><td><font color='blue'>"90D+138M"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97I"</font></td><td><font color='blue'>"113YR"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"144KR"</font></td><td><font color='blue'>"144KR+s151H"</font></td><td><font color='blue'>"151AHA"</font></td><td><font color='blue'>"152A"</font></td><td><font color='blue'>"152HA"</font></td><td><font color='blue'>"156QA"</font></td><td><font color='blue'>"163R"</font></td><td><font color='blue'>"163RW"</font></td><td><font color='blue'>"182TDP"</font></td><td><font color='blue'>"275EL"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*50:01</td>
+        <td><font color='blue'>1</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"116L"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*11:02</td>
+        <td><font color='blue'>0</font></td>
+                              <td><font color='blue'>"62QE"</font></td><td><font color='blue'>"62QE+151H"</font></td><td><font color='blue'>"62QE+s56G"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAQ"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"71QS"</font></td><td><font color='blue'>"90D+138M"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97I"</font></td><td><font color='blue'>"113YR"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"144KR"</font></td><td><font color='blue'>"144KR+s151H"</font></td><td><font color='blue'>"151AHA"</font></td><td><font color='blue'>"152A"</font></td><td><font color='blue'>"152HA"</font></td><td><font color='blue'>"156QA"</font></td><td><font color='blue'>"163R"</font></td><td><font color='blue'>"163RW"</font></td><td><font color='blue'>"182TDP"</font></td><td><font color='blue'>"275EL"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*33:03</td>
+        <td><font color='blue'>0</font></td>
+                              <td><font color='blue'>"9T"</font></td><td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"62RNR"</font></td><td><font color='blue'>"62RR"</font></td><td><font color='blue'>"62RRN"</font></td><td><font color='blue'>"63NN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAH"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"73ID"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97M"</font></td><td><font color='blue'>"113YQ"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"182TDP"</font></td><td><font color='blue'>"186R"</font></td><td><font color='blue'>"245AS"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*68:01</td>
+        <td><font color='blue'>0</font></td>
+                              <td><font color='blue'>"62RN+163TW"</font></td><td><font color='blue'>"62RNR"</font></td><td><font color='blue'>"62RR"</font></td><td><font color='blue'>"62RRN"</font></td><td><font color='blue'>"63NN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAQ"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69AQT"</font></td><td><font color='blue'>"71QS"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97M"</font></td><td><font color='blue'>"113YR"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"245VA"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>A*80:01</td>
+        <td><font color='blue'>0</font></td>
+                              <td><font color='blue'>"35Q"</font></td><td><font color='blue'>"56E4"</font></td><td><font color='blue'>"62EE"</font></td><td><font color='blue'>"63ERN"</font></td><td><font color='blue'>"65RNA"</font></td><td><font color='blue'>"66NAH"</font></td><td><font color='blue'>"66NV"</font></td><td><font color='blue'>"69ATN"</font></td><td><font color='blue'>"71STN"</font></td><td><font color='blue'>"76ANT"</font></td><td><font color='blue'>"77NGT"</font></td><td><font color='blue'>"90D+138M"</font></td><td><font color='blue'>"94TI"</font></td><td><font color='blue'>"97I"</font></td><td><font color='blue'>"113YR"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"138MI"</font></td><td><font color='blue'>"138MI+79GT"</font></td><td><font color='blue'>"144KR"</font></td><td><font color='blue'>"152RR"</font></td><td><font color='blue'>"166DG"</font></td><td><font color='blue'>"182TDP"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*15:03</td>
+        <td><font color='blue'>0</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"24S"</font></td><td><font color='blue'>"131S"</font></td><td><font color='blue'>"131S+163LW"</font></td><td><font color='blue'>"163L"</font></td><td><font color='blue'>"163LE"</font></td><td><font color='blue'>"163LW"</font></td><td><font color='blue'>"163LW+65QI"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*27:08</td>
+        <td><font color='blue'>0</font></td>
+                              <td><font color='blue'>"65QIA+s76ESN"</font></td><td><font color='blue'>"69ATS"</font></td><td><font color='blue'>"71ATS"</font></td><td><font color='blue'>"73TDE"</font></td><td><font color='blue'>"97N"</font></td><td><font color='blue'>"116D"</font></td><td><font color='blue'>"131S"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*40:01</td>
+        <td><font color='blue'>0</font></td>
+                              <td><font color='blue'>"11AM"</font></td><td><font color='blue'>"143S"</font></td><td><font color='blue'>"143S+s76ESN"</font></td><td><font color='blue'>"147L"</font></td><td><font color='blue'>"180E"</font></td>                        </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*40:02 [SELF]</td>
+        <td><font color='blue'>0</font></td>
+              </tr>
+          
+        
+        
+        
+          <tr>
+        <td>B*73:01 [SELF]</td>
+        <td><font color='blue'>0</font></td>
+              </tr>
+      </table>

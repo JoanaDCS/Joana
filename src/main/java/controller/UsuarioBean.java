@@ -1,16 +1,16 @@
 package controller;
 
+import java.io.Serializable;
 import java.util.List;
 
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 
 import DAO.DAO;
-import Model.Usuario;
 
 @ManagedBean(name="userbean")
 @RequestScoped
-public class UsuarioBean {
+public class UsuarioBean implements Serializable {
 
 	private Usuario user = new Usuario();
 	private List<Usuario> usuarios;

@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html">
+
+<ui:composition template="/WEB-INF/template/layout.xhtml">
+	<ui:define name="content">
+
+
+		<div class="inner" style="min-height: 2000px;">
+
+			<div class="panel-body">
+				<ui:insert name="content" />
+				<div class="table-responsive">
+					<div id="dataTables-example_wrapper"
+						class="dataTables_wrapper form-inline" role="grid">
+
+
+
+						<div class="panel-body">
+
+							<!-- <div class="alert alert-info alert-dismissable">
+								<button type="button" class="close" data-dismiss="alert"
+									aria-hidden="true">×</button>
+								O cutoof é utilizado como um limiar de reatividade. Se o cutoff
+								definido for 1000, por exemplo, significa que toda reatividade
+								maior que 1000 é considerada positiva, e toda reatividade menor
+								ou igual a 1000 é considerada negativa <a href="#"
+									class="alert-link"></a>.
+							</div>
+						   <div class="alert alert-success alert-dismissable">
+								<button type="button" class="close" data-dismiss="alert"
+									aria-hidden="true">×</button>
+								O controle positivo e negativo determinam se a técnica do teste
+								foi feita com perfeição. O controle positivo deve ser maior que
+								5000 e o negativo menor que 500 <a href="#" class="alert-link"></a>.
+							</div> -->
+							<div class="alert alert-warning alert-dismissable">
+								<button type="button" class="close" data-dismiss="alert"
+									aria-hidden="true">×</button>
+								Eplet: é a região da molecula de HLA, onde o anticorpo do
+								receptor pode se ligar. <a href="#" class="alert-link"></a>
+							</div>
+							<div class="alert alert-danger alert-dismissable">
+								<button type="button" class="close" data-dismiss="alert"
+									aria-hidden="true">×</button>
+								MFI: é o valor de reatividade presente no allelo <a href="#"
+									class="alert-link"></a>.
+							</div>
+						</div>
+
+
+						<div class="tooltip-demo">
+							<button type="button" class="btn btn-success"
+								data-toggle="tooltip" data-placement="left"
+								title="O controle positivo e negativo determinam se a técnica do teste foi feita com perfeição. O controle positivo deve ser maior que 5000."
+								data-original-title="Tooltip on left">Controle
+								Positivo:</button>
+
+							<button type="button" class="btn btn-danger"
+								data-toggle="tooltip" data-placement="left"
+								title="O controle positivo e negativo determinam se a técnica do teste foi feita com perfeição. O controle negativo deve ser menor que 500"
+								data-original-title="Tooltip on left">Controle
+								Negativo:</button>
+
+							<button type="button" class="btn btn-warning"
+								data-toggle="tooltip" data-placement="top" title=""
+								data-original-title="Tooltip on top">Self</button>
+
+							<button type="button" data-toggle="dropdown"
+								class="btn btn-primary dropdown-toggle" data-placement="top" title="O cutoof é utilizado como um limiar de reatividade. Se o cutoff	definido for 1000, por exemplo, significa que toda reatividade maior que 1000 é considerada positiva, e toda reatividade menor ou igual a 1000 é considerada negativa"
+								data-origianl-title="Tooltip on top">
+								Cutoff <span class="caret"></span>
+							</button>
+						</div>
+
+						<div class="row">
+							<div class="col-grad-3">
+								<hr></hr>
+							</div>
+						</div>
+						<table
+							class="table table-striped table-bordered table-hover dataTable no-footer"
+							id="dataTables-example"
+							aria-describedby="dataTables-example_info">
+							<thead>
+								<tr role="row">
+									<th style="width: 80px;">Alelo</th>
+									<th style="width: 80px;">MFI</th>
+									<th style="width: 1200px;">Eplets</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr class="gradeA odd">
+									<td class="sorting_1">B*44:03</td>
+									<td class=" ">4093</td>
+									<td class=" ">"11AM" "71TTN" "76EN" "76ENR" "76ENT" "76ET"
+										"80TA" "80TLR" "81ALR" "82LR" "82LR+138T" "82LR+144Q145R"
+										"82LR+145R" "82LR+90A" "82LR+s145R/149A" "116D" "131S"
+										"162GLS" "163L" "163LE" "166ES" "199V"</td>
+
+								</tr>
+								<tr class="gradeA even">
+									<td class="sorting_1"></td>
+									<td class=" "></td>
+									<td class=" "></td>
+
+								</tr>
+								<tr class="gradeA odd">
+									<td class="sorting_1"></td>
+									<td class=" "></td>
+									<td class=" "></td>
+
+								</tr>
+								<tr class="gradeA even">
+									<td class="sorting_1"></td>
+									<td class=" "></td>
+									<td class=" "></td>
+								</tr>
+								<tr class="gradeA odd">
+									<td class="sorting_1"></td>
+									<td class=" "></td>
+									<td class=" "></td>
+								</tr>
+								<tr class="gradeA even">
+									<td class="sorting_1"></td>
+									<td class=" "></td>
+									<td class=" "></td>
+								</tr>
+								<tr class="gradeA odd">
+									<td class="sorting_1"></td>
+									<td class=" "></td>
+									<td class=" "></td>
+								</tr>
+
+								<tr class="gradeA even">
+									<td class="sorting_1"></td>
+									<td class=" "></td>
+									<td class=" "></td>
+								</tr>
+
+							</tbody>
+						</table>
+						<!-- <div class="row">
+								<div class="col-sm-3">
+									<div class="dataTables_info" id="dataTables-example_info"
+										role="alert" aria-live="polite" aria-relevant="all">texto
+									</div>
+								</div>
+								 <div class="col-sm-3"> 
+									<div class="dataTables_paginate paging_simple_numbers" id="dataTables-example_paginate">
+										<ul class="pagination">
+											<li class="paginate_button previous disabled"
+												aria-controls="dataTables-example" tabindex="0"
+												id="dataTables-example_previous">
+												<a href="#">Nível</a>
+											</li>
+											<li class="paginate_button active"
+												aria-controls="dataTables-example" tabindex="0">
+												<a href="#">1</a>
+											</li>
+											<li class="paginate_button "
+												aria-controls="dataTables-example" tabindex="0">
+												<a href="#">2</a>
+											</li>
+											<li class="paginate_button "
+												aria-controls="dataTables-example" tabindex="0">
+												<a href="#">3</a>
+											</li>
+										</ul>
+									</div>
+								 </div> 
+							</div> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</ui:define>
+
+</ui:composition>
+</html>
