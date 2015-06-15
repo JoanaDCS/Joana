@@ -41,9 +41,4 @@ public class UsuarioBean {
 	public void setUser(Usuario user) {
 		this.user = user;
 	}
-	
-	
-	
-	
-	
 }

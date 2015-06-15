@@ -2,8 +2,11 @@
 <persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
 	<persistence-unit name="joana" transaction-type="RESOURCE_LOCAL">
 		<provider>org.hibernate.ejb.HibernatePersistence</provider>
-		<class>Model.Usuario</class>
-		<class>Model.TipoUsuario</class>
+		<class>Model.Alelo</class>
+		<class>Model.Analise</class>
+		<class>Model.Eplet</class>
+		<class>Model.Iteracao</class>
+		<class>Model.Modulo</class>
 		<properties>
 			<property name="javax.persistence.jdbc.user" value="root"/>
 			<property name="javax.persistence.jdbc.password" value="root"/>
